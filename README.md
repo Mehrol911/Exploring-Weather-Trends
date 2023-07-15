@@ -5,7 +5,7 @@
 Explore Weather Trends
 
 This project is part of Udacity's Data Analyst Nanodegree program, completed by Mehrol Bazarov. The goal of this project is to analyze local and global temperature data and compare the temperature trends in the student's location to the overall global temperature trends.
-Project can be found in the pdf file. 
+Project can be found in the pdf file. Mehrol Bazarov - Project 1_Exploring Weather Trends.pdf
 
 Contents of the Project
 
